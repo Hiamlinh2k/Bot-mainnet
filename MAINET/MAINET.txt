@@ -1,0 +1,3 @@
+bsc = https://bsc-dataseed.binance.org
+PancakeSwap: Router v2 : 0x10ED43C718714eb63d5aA57B78B54704E256024E
+WBNB Token :  0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
